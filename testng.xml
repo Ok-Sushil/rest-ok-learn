@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API Test Suite">
+    <test name="API Tests">
+        <classes>
+            <class name="ApiAutomationTest"/> <!-- Fully qualified class name -->
+        </classes>
+    </test>
+
+    <test name="API Tests2">
+        <classes>
+            <class name="Api2"/> <!-- Fully qualified class name -->
+        </classes>
+    </test>
+</suite>
